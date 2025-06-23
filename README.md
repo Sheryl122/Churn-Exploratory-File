@@ -1,5 +1,20 @@
 # Churn-Exploratory-File
-In this project, I practice my SQL queries, by exploring a dataset posting Customers who have churned from a Service Provider based on different attributes.
-I  first cleaned the data in excel. The data was pretty clean so I just changed on of the columns where the output were ones and zeros, I changed this so that it would be easier to understand the values.
-I explored the data with sql. I checked the amount of people who churned and what services they used. This help me come to a conclusion that certain services had more customers who churned. Meaning these services were either not meeting customer satsifaction or the price was too expensive for customers.
-I was able to determine that price was a factor by checking the average price per service. Some services with more churned customers had higher average monthly charges.
+This dataset diplays the amount of people that have churned from a telecommunication company. The main question is why are customers churning and what can be done to retain customers. In this project, I used excel to clean the data first, then I explored the data using SQL in mySQL workbench. I expressed  my findings in percents to have an easier way to keep track and compare which users had the highest churn rate. I then took my findings to excel and used pivot tables and charts to visualize my discovery.
+
+My Discoveries:
+* Almost 75% of the churned customers do not identify as Senior Citizens 
+* 57% of the churned customers paid via electronic checks and also had the highest average monthly charges.
+* Fiber Optics customers had the highest churn rate and their monthly average charge was 1.7x more than the charges of DSL users and 4.4x more than customers with no internet service at all.
+* Customers who opted in for phone service made up 91% of the churned cutomers.
+
+My Recommendations:
+* Senior citizens most likely have personalized offers that's why they have a  higher retain rate, so I suggest having personalized offers for the other age groups 
+* There's most likely a fee for people who pay with electronic checks, I propose eliminating this fee
+* Improved quality for services offered by Fiber Optics
+* Having special offers/discount for customers with multiple services since they are the ones spending the most money
+
+What I learned:
+* I improved my SQL skills by writing intermidiate queries (subqueries)
+* Learned how to create visualizitions with pivot tables and charts
+* Practiced clear documentation of my insights
+* Put critical thinking skills to the test
