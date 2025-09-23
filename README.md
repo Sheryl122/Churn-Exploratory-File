@@ -1,8 +1,15 @@
 # Churn-Exploratory-File
-This dataset diplays the amount of people that have churned from a telecommunication company. The main question is why are customers churning and what can be done to retain customers. In this project, I used excel to clean the data first, then I explored the data using SQL in mySQL workbench. I expressed  my findings in percents to have an easier way to keep track and compare which users had the highest churn rate. I then took my findings to excel and used pivot tables and charts to visualize my discovery.
 
-My Discoveries:
-* Almost 75% of the churned customers do not identify as Senior Citizens 
+**Overview:**
+This project analyzes customer churn for a telecommunications company. The goal is to identify key drivers of churn and recommend strategies for retentions.
+
+**Tools Used:**
+- **Excel:** Data cleaning, pivot tables, and visualization
+- **MySQL Workbench:** Data exploration and querying
+- **Tableau:** Interactive Dashboards for presenting insights
+
+**Key Findings:**
+* Nearly 75% of the churned customers do not identify as Senior Citizens, suggesting younger groups are at higher a risk of churning.
 * 57% of the churned customers paid via electronic checks and also had the highest average monthly charges.
 * Fiber Optics customers had the highest churn rate and their monthly average charge was 1.7x more than the charges of DSL users and 4.4x more than customers with no internet service at all.
 * Customers who opted in for phone service made up 91% of the churned cutomers.
