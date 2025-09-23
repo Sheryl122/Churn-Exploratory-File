@@ -10,18 +10,18 @@ This project analyzes customer churn for a telecommunications company. The goal 
 
 **Key Findings:**
 * Nearly 75% of the churned customers do not identify as Senior Citizens, suggesting younger groups are at higher a risk of churning.
-* 57% of the churned customers paid via electronic checks and also had the highest average monthly charges.
-* Fiber Optics customers had the highest churn rate and their monthly average charge was 1.7x more than the charges of DSL users and 4.4x more than customers with no internet service at all.
-* Customers who opted in for phone service made up 91% of the churned cutomers.
+* 57% of the churned customers paid via electronic checks, and this group also had the highest average monthly charges.
+* Fiber Optics customers showed the highest churn rate and their monthly average charge was 1.7x more than the charges of DSL users and 4.4x more than customers without internet service.
+* Customers who opted in for phone service made up 91% of the churned cutomers, showing a common denominator for churned customer.
 
-My Recommendations:
-* Senior citizens most likely have personalized offers that's why they have a  higher retain rate, so I suggest having personalized offers for the other age groups 
-* There's most likely a fee for people who pay with electronic checks, I propose eliminating this fee
-* Improved quality for services offered by Fiber Optics
-* Having special offers/discount for customers with multiple services since they are the ones spending the most money
+**Recommendations:**
+* Extend personalized offers beyond senior citizens to improve retention among other age groups.
+* Review electronic check polocies (possible fees) that may be discouraging customers.
+* Improve Fiber Optics service quality or consider pricing adjustments to reduce dissatisfaction.
+* Offer bundled discounts or special offers for multi-service customers to lower churned numbers.
 
 What I learned:
 * I improved my SQL skills by writing intermidiate queries (subqueries)
 * Learned how to create visualizitions with pivot tables and charts
-* Practiced clear documentation of my insights
-* Put critical thinking skills to the test
+* Practiced clear documentation of data-driven recommendations.
+* Applied critical thinking to connect data patterns with business decisions.
