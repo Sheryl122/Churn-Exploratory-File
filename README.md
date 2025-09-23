@@ -20,8 +20,8 @@ This project analyzes customer churn for a telecommunications company. The goal 
 * Improve Fiber Optics service quality or consider pricing adjustments to reduce dissatisfaction.
 * Offer bundled discounts or special offers for multi-service customers to lower churned numbers.
 
-What I learned:
-* I improved my SQL skills by writing intermidiate queries (subqueries)
-* Learned how to create visualizitions with pivot tables and charts
+**What I learned:**
+* I improved my SQL skills by writing intermidiate queries, such as subqueries.
+* Learned how to create visualizitions with pivot tables, charts and graphs.
 * Practiced clear documentation of data-driven recommendations.
 * Applied critical thinking to connect data patterns with business decisions.
