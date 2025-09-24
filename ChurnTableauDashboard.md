@@ -1,0 +1,2 @@
+## **Explore the interactive dashboard for the project here:** 
+[View Customer Churn Dashboard](https://public.tableau.com/views/CustomerChurnRate_17549604717190/TelecomeChurnRateOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
