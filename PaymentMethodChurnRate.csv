@@ -1,0 +1,5 @@
+PaymentMethod,NumOfCustomers,PERCENTAGE
+"Electronic check",1071,57.30%
+"Mailed check",308,16.48%
+"Bank transfer (automatic)",258,13.80%
+"Credit card (automatic)",232,12.41%
