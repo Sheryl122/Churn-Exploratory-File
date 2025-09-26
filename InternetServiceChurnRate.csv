@@ -1,3 +1,5 @@
+This Chart shows the number of people who have churned from each Internet Provider, I added the percentage so it's easier to understand the number of people who have churned.
+
 InternetService,ChurnedPerInternet,ChurnedPercentage,AVGMonthlyCharges
 "Fiber optic",1297,69.40%,$88.13
 DSL,459,24.56%,$49.08
